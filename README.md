@@ -1,0 +1,2 @@
+# media-
+Note: If you created your GitHub account after July 18, 2017, your GitHub-provided no-reply email address is a seven-digit ID number and your username in the form of ID+username@users.noreply.github.com. If you created your GitHub account prior to July 18, 2017, your GitHub-provided no-reply email address is your username in the form of username@users.noreply.github.com. You can get an ID-based GitHub-provided no-reply email address by selecting (or deselecting and reselecting) Keep my email address private in your email settings.
